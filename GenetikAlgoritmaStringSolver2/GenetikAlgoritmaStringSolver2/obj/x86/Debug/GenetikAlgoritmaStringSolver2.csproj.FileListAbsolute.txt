@@ -1,0 +1,4 @@
+C:\Users\Mustafa\Desktop\Algoritmalar\GenetikAlgoritmaStringSolver2\GenetikAlgoritmaStringSolver2\bin\Debug\GenetikAlgoritmaStringSolver2.exe
+C:\Users\Mustafa\Desktop\Algoritmalar\GenetikAlgoritmaStringSolver2\GenetikAlgoritmaStringSolver2\bin\Debug\GenetikAlgoritmaStringSolver2.pdb
+C:\Users\Mustafa\Desktop\Algoritmalar\GenetikAlgoritmaStringSolver2\GenetikAlgoritmaStringSolver2\obj\x86\Debug\GenetikAlgoritmaStringSolver2.exe
+C:\Users\Mustafa\Desktop\Algoritmalar\GenetikAlgoritmaStringSolver2\GenetikAlgoritmaStringSolver2\obj\x86\Debug\GenetikAlgoritmaStringSolver2.pdb

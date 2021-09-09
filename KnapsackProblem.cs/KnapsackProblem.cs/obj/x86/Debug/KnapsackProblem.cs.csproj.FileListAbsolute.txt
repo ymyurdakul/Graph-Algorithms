@@ -1,0 +1,4 @@
+C:\Users\Mustafa\AppData\Local\Temporary Projects\KnapsackProblem.cs\bin\Debug\KnapsackProblem.cs.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\KnapsackProblem.cs\bin\Debug\KnapsackProblem.cs.pdb
+C:\Users\Mustafa\AppData\Local\Temporary Projects\KnapsackProblem.cs\obj\x86\Debug\KnapsackProblem.cs.exe
+C:\Users\Mustafa\AppData\Local\Temporary Projects\KnapsackProblem.cs\obj\x86\Debug\KnapsackProblem.cs.pdb

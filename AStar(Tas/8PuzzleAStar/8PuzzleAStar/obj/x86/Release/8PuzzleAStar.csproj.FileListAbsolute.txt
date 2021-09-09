@@ -1,0 +1,7 @@
+E:\Algoritmalar\AStar(Tas\8PuzzleAStar\8PuzzleAStar\bin\Release\8PuzzleAStar.exe
+E:\Algoritmalar\AStar(Tas\8PuzzleAStar\8PuzzleAStar\bin\Release\8PuzzleAStar.pdb
+E:\Algoritmalar\AStar(Tas\8PuzzleAStar\8PuzzleAStar\obj\x86\Release\_8PuzzleAStar.Form1.resources
+E:\Algoritmalar\AStar(Tas\8PuzzleAStar\8PuzzleAStar\obj\x86\Release\_8PuzzleAStar.Properties.Resources.resources
+E:\Algoritmalar\AStar(Tas\8PuzzleAStar\8PuzzleAStar\obj\x86\Release\8PuzzleAStar.csproj.GenerateResource.Cache
+E:\Algoritmalar\AStar(Tas\8PuzzleAStar\8PuzzleAStar\obj\x86\Release\8PuzzleAStar.exe
+E:\Algoritmalar\AStar(Tas\8PuzzleAStar\8PuzzleAStar\obj\x86\Release\8PuzzleAStar.pdb

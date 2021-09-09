@@ -1,0 +1,5 @@
+C:\Users\Mustafa\Desktop\Algoritmalar\Genet'kAlgoritmaStringSolver\Genet'kAlgoritmaStringSolver\bin\Debug\Genet'kAlgoritmaStringSolver.exe
+C:\Users\Mustafa\Desktop\Algoritmalar\Genet'kAlgoritmaStringSolver\Genet'kAlgoritmaStringSolver\bin\Debug\Genet'kAlgoritmaStringSolver.pdb
+C:\Users\Mustafa\Desktop\Algoritmalar\Genet'kAlgoritmaStringSolver\Genet'kAlgoritmaStringSolver\obj\x86\Debug\Genet'kAlgoritmaStringSolver.exe
+C:\Users\Mustafa\Desktop\Algoritmalar\Genet'kAlgoritmaStringSolver\Genet'kAlgoritmaStringSolver\obj\x86\Debug\Genet'kAlgoritmaStringSolver.pdb
+C:\Users\Mustafa\Desktop\Algoritmalar\Genet'kAlgoritmaStringSolver\Genet'kAlgoritmaStringSolver\obj\x86\Debug\Genet'kAlgoritmaStringSolver.csprojResolveAssemblyReference.cache
